@@ -1,0 +1,143 @@
+{
+    "Header": {
+        "img": "img/banner.jpg",
+        "img2": "ic01.png"
+    },
+
+    "About": {
+      "title": "ABOUT US",
+      "paragraph": "The earliest predecessor of NewWorld Ventures is a team of experts in the field of digital currency investment research. For joining the market and having achieved certain successes in our team's decision to establish NewWorld Ventures Investment Fund to expand the investment sector as well as to professionalize its investment activities. Besides, the establishment of the Fund is also a step for us to look for more investors who can share the same vision and orientation.",
+      "content": "By investing seriously into information technology, deeply researching the market together with a team of experts in many years of experience in the investment sector. NewWorld Ventures hopes to become a highly prestigious institution in the community and benefit all investors who have put their trust in the Fund.",
+      "img": "img/about.jpg"
+    },
+
+    "Linhvuc": {
+        "title": "OPERATING HEADQUARTER",
+        "content": [
+            {
+                "img": "img/ic01.png",
+                "content": "Digital currency market"
+            },
+            {
+                "img": "img/ic02.png",
+                "content": "Real estate market"
+            },
+            {
+                "img": "img/ic03.png",
+                "content": "Stock market"
+            },
+            {
+                "img": "img/ic04.png",
+                "content": "Agriculture and functional foods"
+            }
+
+        ]
+    },
+
+    "Timeline": {
+            "title": "MEMORABLE TIMELINES",
+            "content":[
+                {
+                    "icon": "fa fa-globe",
+                    "date": "09/2016",
+                    "content": "Gather a team of experts to research the digital currency market"
+                },
+                {
+                    "icon": "fa fa-rocket",
+                    "date": "04/2017",
+                    "content": "Expanding the group size in both personnel and capital"
+                },
+                {
+                    "icon": "fa-solid fa-lightbulb",
+                    "date": "03/2020",
+                    "content": "Plan to establish the Fund"
+                },
+                {
+                    "icon": "fa-solid fa-user-group",
+                    "date": "05/2021",
+                    "content": "Establishment of NewWorld Ventures"
+                },
+                {
+                    "icon": "fa fa-mobile",
+                    "date": "01/2022",
+                    "content": "Expanding investment sector to real estate, agriculture, etc..."
+                }
+
+            ]
+    },
+    "Vision": {
+        "title": "VISION",
+        "content": [
+            {
+                "content": "Expanding the investment sector to traditional investment items such as real estate, stock, agriculture, etc. Laying a solid foundation to increase the credibility of the Fund.",
+                "description": "Short-term"
+            },
+            
+            {
+                "content": "Proceed to raise more capital from investors and the community to increase the fund's capital, invest in larger and longer-term projects.",
+                "description": "Medium-term"
+            },
+
+            {
+                "content": "Become the top ten investment fund in Vietnam in both traditional and risky investment areas.",
+                "description": "Long-term"
+            }
+
+        ]
+    },
+    "Mision": {
+        "title": "MISSION",
+        "content": [
+            {
+                "description": "For The Market" ,
+                "content": "Research and make appropriate investment decisions. Build the credibility of the Fund based on successful investment projects"
+            },
+            {
+                "description": "For Investors" ,
+                "content": "Strengthen the relationship between the two sides with sincerity, trust, transparency, understanding, sharing. Companionship is also the key to sustainable cooperation."
+            },
+            {
+                "description": "For Employees" ,
+                "content": "Create a dynamic, civilized, and professional environment where every capacity will be properly evaluated and every idea will be appreciated to the maximum."
+            },
+            {
+                "description": "For The Community" ,
+                "content": "Promoting the spirit of  When you eat a fruit, think of the man who planted the tree, The leaves protect tattered ones part of the profits from investment activities will always be used for charity work."
+            }
+            
+        ]
+    },
+
+    "Value":  {
+        "title": "CORE VALUES",
+        "icon": "fa-solid fa-circle-check",
+        "content": [
+            {   
+                "description": "Enthusiasm for the project"
+            },
+            {
+                "description": "Dedicated to investors"
+            },
+            {
+                "description": "Highly adapted to the market"
+            },
+            {
+                "description": "Applying technology to management"
+            }
+            
+        ]
+    },
+    "Thankyou": {
+        "img" : "img/thank you.png",
+        "title" : "SEND TO THANK YOU",
+        "content1": "NewWorld Ventures would like to thank the investors who have trusted and accompanied us in the past time.",
+        "content2": "With the spirit of creativity, learning efforts, active innovation in investment and fund management. NewWorld Ventures is trying daily to win the trust of investors. We strive to become one of the leading funds in the areas of investment participation. That goal will not be easy to accomplish without the strong cooperation between us and you in the future."
+    },
+
+    "Footer": {
+        "img": "img/logo nwv.png",
+        "content": "@ 2022 NewWorld Ventures"
+    }
+
+}
+

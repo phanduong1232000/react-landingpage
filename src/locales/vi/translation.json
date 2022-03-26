@@ -1,0 +1,143 @@
+{
+    "Header": {
+        "img": "img/banner.jpg",
+        "img2": "ic01.png"
+    },
+
+    "About": {
+      "title": "COMBO KHỞI ĐỘNG KINH DOANH",
+      "paragraph": "Tiền thân của NewWorld Ventures là một nhóm chuyên gia trong lĩnh vực nghiên cứu đầu tư tiền kỹ thuật số. Qua một thời gian tham gia thị trường và đã đạt được một số thành công nhất định nhóm chúng tôi đi đến quyết định thành lập Quỹ đầu tư NewWorld Ventures nhằm mục tiêu mở rộng lĩnh vực đầu tư cũng như chuyên nghiệp hóa các hoạt động đầu tư của mình. Bên cạnh đó việc thành lập Quỹ cũng là một bước để chúng tôi có tìm kiếm thêm những nhà đầu tư có chung tầm nhìn và chí hướng.",
+      "content": "Bằng việc đầu tư nghiêm túc vào công nghệ thông tin, nghiên cứu sâu thị trường cùng với đội ngũ chuyên gia có kinh nghiệm nhiều năm trong các lĩnh vực đầu tư. NewWorld Ventures kì vọng trở thành một tổ chức uy tín cao trong cộng đồng và mang lại lợi ích cho tất cả nhà đầu tư đã đặt niềm tin vào Quỹ.",
+      "img": "img/about.jpg"
+    },
+
+    "Linhvuc": {
+        "title": "LĨNH VỰC ĐẦU TƯ",
+        "content": [
+            {
+                "img": "img/ic01.png",
+                "content": "Thị trường tiền kĩ thuật số"
+            },
+            {
+                "img": "img/ic02.png",
+                "content": "Thị trường bất động sản"
+            },
+            {
+                "img": "img/ic03.png",
+                "content": "Thị trường chứng khoán"
+            },
+            {
+                "img": "img/ic04.png",
+                "content": "Nông nghiệp & thực phẩm chức năng"
+            }
+
+        ]
+    },
+
+    "Timeline": {
+            "title": "CÁC MỐC THỜI GIAN ĐÁNG NHỚ",
+            "content":[
+                {
+                    "icon": "fa fa-globe",
+                    "date": "09/2016",
+                    "content": "Tập hợp nhóm chuyên gia nghiên cứu thị trường tiền kỹ thuật số"
+                },
+                {
+                    "icon": "fa fa-rocket",
+                    "date": "04/2017",
+                    "content": "Mở rộng quy mô về nhân sự và nguồn vốn"
+                },
+                {
+                    "icon": "fa-solid fa-lightbulb",
+                    "date": "03/2020",
+                    "content": "Lên kế hoạch thành lập Quỹ"
+                },
+                {
+                    "icon": "fa-solid fa-user-group",
+                    "date": "05/2021",
+                    "content": "Thành lập Quỹ NewWorld Ventures"
+                },
+                {
+                    "icon": "fa fa-mobile",
+                    "date": "01/2022",
+                    "content": "Mở rộng lĩnh vực đầu tư sang bất động sản, nông nghiệp v.v.."
+                }
+
+            ]
+    },
+    "Vision": {
+        "title": "TẦM NHÌN",
+        "content": [
+            {
+                "content": "Mở rộng lĩnh vực đầu tư sang các hạng mục đầu tư truyền thống như bất động sản, chứng khoán, nông nghiệp … Đặt nền móng vững chắc gia tăng độ uy tín của Quỹ.",
+                "description": "NGẮN HẠN"
+            },
+            
+            {
+                "content": "Tiến hành gọi thêm vốn từ các nhà đầu tư và cộng đồng để gia tăng nguồn vốn Quỹ, đầu tư vào các dự án lớn hơn, dài hạn hơn.",
+                "description": "TRUNG HẠN"
+            },
+
+            {
+                "content": "Trở thành Quỹ đầu tư top 10 tại Việt Nam trong các lĩnh vực đầu tư cả truyền thống lẫn mạo hiểm.",
+                "description": "DÀI HẠN"
+            }
+
+        ]
+    },
+    "Mision": {
+        "title": "SỨ MỆNH",
+        "content": [
+            {
+                "description": "ĐỐI VỚI THỊ TRƯỜNG" ,
+                "content": "Nghiên cứu và đưa ra quyết định đầu tư phù hợp. Xây dựng uy tín của Quỹ dựa vào các dự án đầu tư thành công"
+            },
+            {
+                "description": "ĐỐI VỚI NHÀ ĐẦU TƯ" ,
+                "content": "Thắt chặt mối quan hệ hai bên bằng sự chân thành, tín nhiệm, minh bạch, thấu hiểu, sẻ chia. Đồng hành cũng phát triển là chìa khóa cho hợp tác vững bền."
+            },
+            {
+                "description": "ĐỐI VỚI NHÂN VIÊN" ,
+                "content": "Tạo ra một môi trường năng động, văn mình và chuyên nghiệp. Nơi mọi năng lực sẽ được đánh giá đúng mức và mọi ý tưởng sẽ được trân trọng tối đa."
+            },
+            {
+                "description": "ĐỐI VỚI CỘNG ĐỒNG" ,
+                "content": "Đề cao tinh thần “uống nước nhớ nguồn”, “lá lành đùm lá rách” một phần lợi nhuận từ các hoạt động đầu tư sẽ luôn được dùng cho các công tác từ thiện."
+            }
+            
+        ]
+    },
+
+    "Value":  {
+        "title": "GIÁ TRỊ CỐT LÕI",
+        "icon": "fa-solid fa-circle-check",
+        "content": [
+            {   
+                "description": "Tâm huyết với dự án"
+            },
+            {
+                "description": "Tận tâm với nhà đầu tư"
+            },
+            {
+                "description": "Thích ứng cao với thị trường"
+            },
+            {
+                "description": "Ứng dụng công nghệ để quản trị"
+            }
+            
+        ]
+    },
+    "Thankyou": {
+        "img" : "img/thank you.png",
+        "title" : "LỜI CẢM ƠN",
+        "content1": "NewWorld Ventures xin gửi lời cảm ơn đến các nhà đầu tư đã tin tưởng và đồng hành cùng chúng tôi trong thời gian qua.",
+        "content2": "Với tinh thần sáng tạo, nỗ lực học hỏi, tích cực đổi mới trong đầu tư và quản lý Quỹ, NewWorld Ventures đang cố gắng từng ngày chiếm trọng niềm tin của các nhà đầu tư. Chúng tôi phấn đấu trở thành một trong những Quỹ hàng đầu trong những lĩnh vực tham gia đầu tư. Mục tiêu đó sẽ không dễ hoàn thành nếu không có sự cộng tác bền chặt giữa chúng tôi và các bạn trong tương lai."
+    },
+
+    "Footer": {
+        "img": "img/logo nwv.png",
+        "content": "@ 2022 NewWorld Ventures"
+    }
+
+}
+
