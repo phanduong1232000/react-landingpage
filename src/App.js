@@ -1,5 +1,5 @@
-import Header from './components/Header'
-import About from './components/About'
+import Header from './components/Header';
+import About from './components/About';
 import Linhvuc from './components/Linhvuc';
 import Timeline from './components/Timeline';
 import Vision from './components/Vision';
@@ -9,7 +9,6 @@ import Thankyou from './components/Thankyou';
 import Footer from './components/Footer';
 import JsonData from '../src/data.json';
 import { useEffect, useState } from 'react';
-
 
 
 
@@ -30,6 +29,7 @@ const App = () => {
           <Value />
           <Thankyou />
           <Footer />
+
      </div>
   );
 }
